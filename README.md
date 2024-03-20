@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on school stuff
 - 🌱 I’m currently learning to code
-
+- and i am working on my own game
