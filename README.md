@@ -1,7 +1,7 @@
 ### Hi there.
 ### i am learing to code and stuff.
 ### and i am working on my own game.
-### Visite my site https://dukevanzon5.wixsite.com/dukesite
+### Visite my [site](https://dukevanzon5.wixsite.com/dukesite)
 
 <!--
 **DukeVZ/DukeVZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
