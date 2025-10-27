@@ -1,5 +1,5 @@
 ### Hi there.
-### i am learing to code and stuff.
+### i am learing to code.
 ### and i am working on my own game.
 ### Visite my [site](https://bold-tweak-839105.framer.app/).
 
